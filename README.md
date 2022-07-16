@@ -7,3 +7,4 @@ At GenB we keep track of what was discussed at meetings by writing notes. One or
 - 5/22/2022: [Wallet Presentation](https://github.com/GenerationBitcoin/meeting_notes/blob/master/may_22_2022.md)
 - 6/17/2022: [Properties of Money Presentation](https://github.com/GenerationBitcoin/meeting_notes/blob/master/june_17_2022.md)
 - 7/2/2022: [General Discussion](https://github.com/GenerationBitcoin/meeting_notes/blob/master/july_2_2022.md)
+- 7/16/2022: [Coin Selection Presentation by Murch](https://github.com/GenerationBitcoin/meeting_notes/blob/master/july_16_2022.md)
